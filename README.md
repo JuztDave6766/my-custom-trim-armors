@@ -6,6 +6,8 @@ This Vanilla-Friendly Resource Pack completely reimagines the appearance of armo
 The pack is meticulously designed to ensure that while the trims are thematically overhauled, the original armour material (diamond, netherite, etc.) remains easily recognizable and distinct.
 
 The trims included are: 
+| Trim | Outfit|
+| :---: | :---: |
 | Rib Armor Trim | Skeleton Cape |
 | Sentry Armor Trim | Steampunk Attire |
 | Vex Armor Trim | Migrator Cape Outfit |
