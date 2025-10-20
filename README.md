@@ -9,7 +9,7 @@ The trims included are:
 | Armor Trim | Outfit|
 | :---: | :---: |
 | Rib | Skeleton Cape |
-| Sentry | Steampunk Attire |
+| Sentry | Steampunk Attire 1 |
 | Vex | Migrator Cape Outfit |
 | Coast | Pirate Costume |
 | Wild | Jungle Mimetization |
@@ -24,10 +24,8 @@ The trims included are:
 | Snout | Piglin Outfit |
 | Eye | Evoker Outfit |
 | Spire | Ninja |
-
-To be included in next update:
-- Bolt Armor Trim 	
-- Flow Armor Trim
+| Bolt | 1800s Outfit |
+| Flow | Steampunk Attire 2 |
 
 
 ## Installation Guide
