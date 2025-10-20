@@ -5,6 +5,27 @@ Are you looking to transform Minecraft's standard Armour Trims into unique theme
 This Vanilla-Friendly Resource Pack completely reimagines the appearance of armour trims, introducing a diverse collection of new aesthetics, such as Pirate Costumes, Knight Armaments, and more. 
 The pack is meticulously designed to ensure that while the trims are thematically overhauled, the original armour material (diamond, netherite, etc.) remains easily recognizable and distinct.
 
+The trims included are: 
+| Rib Armor Trim | Skeleton Cape |
+| Sentry Armor Trim | Steampunk Attire |
+| Vex Armor Trim | Migrator Cape Outfit |
+| Coast Armor Trim | Pirate Costume |
+| Wild Armor Trim | Jungle Mimetization |
+| Dune Armor Trim | Beduin Style |
+| Wayfinder Armor Trim | Knight 1 |
+| Raiser Armor Trim | Knight 2 |
+| Shaper Armor Trim | Knight 3 |	
+| Host Armor Trim | Knight 4 |
+| Ward Armor Trim |	Knight 5 |
+| Silence Armor Trim | King |
+| Tide Armor Trim |	Diving Suit |
+| Snout Armor Trim | Piglin Outfit |
+| Eye Armor Trim | Evoker Outfit |
+| Spire Armor Trim | Ninja |
+
+To be included in next update:
+- Bolt Armor Trim 	
+- Flow Armor Trim
 
 
 ## Installation Guide
